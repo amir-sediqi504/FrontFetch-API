@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\amirs\\Desktop\\ASP.NET\\ApiFetch\\ApiFetch\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\amirs\\Desktop\\ASP.NET\\ApiFetch\\ApiFetch\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\amirs\\Desktop\\ASP.NET\\ApiFetch\\ApiFetch\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ApiFetch.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ApiFetch.props",
+      "PackagePath": "build\\ApiFetch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiFetch.props",
+      "PackagePath": "buildMultiTargeting\\ApiFetch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ApiFetch.props",
+      "PackagePath": "buildTransitive\\ApiFetch.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
